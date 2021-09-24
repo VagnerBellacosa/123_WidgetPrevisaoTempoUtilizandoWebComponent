@@ -11,8 +11,16 @@
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Parte 1](https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/b7263fd1-c0a0-4886-941b-8c871e5cfcbd)[Parte 2](https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/aee6b3f0-6e2a-4ed1-9c1f-cc06ef941e19)[Parte 3](https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/fb48c472-7f08-4508-b5a2-1047d2a4ff83)[Parte 4](https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/f4e8bf65-e7d0-4b9d-a62e-b20b1714a4b7)[Parte 5](https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/dcfa69ff-2e5a-4027-802e-48bebdb93d50)[Parte 6](https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/3ede7e00-0fb1-4bdc-9d4c-6690de037969)[Parte 7](https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/2db2b13a-6f2d-49cb-872e-c09d8658532a)[Parte 8](https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/9b4d90da-1f5d-426e-ab53-7d3518113d65)[Parte 9](https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/3753e01b-b233-4491-9543-9f56526f6d17)[Parte 10](https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/9bcb58fa-1409-4a2e-a1b5-45c192f54ede)
-
+- [Parte 1](https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/b7263fd1-c0a0-4886-941b-8c871e5cfcbd)
+- [Parte 2](https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/aee6b3f0-6e2a-4ed1-9c1f-cc06ef941e19) 
+- [Parte 3](https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/fb48c472-7f08-4508-b5a2-1047d2a4ff83) 
+- [Parte 4](https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/f4e8bf65-e7d0-4b9d-a62e-b20b1714a4b7) 
+- [Parte 5](https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/dcfa69ff-2e5a-4027-802e-48bebdb93d50) 
+- [Parte 6](https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/3ede7e00-0fb1-4bdc-9d4c-6690de037969) 
+- [Parte 7](https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/2db2b13a-6f2d-49cb-872e-c09d8658532a) 
+- [Parte 8](https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/9b4d90da-1f5d-426e-ab53-7d3518113d65) 
+- [Parte 9](https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/3753e01b-b233-4491-9543-9f56526f6d17) 
+- [Parte 10](https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/9bcb58fa-1409-4a2e-a1b5-45c192f54ede)
 
 
 - CONTEÚDOS
